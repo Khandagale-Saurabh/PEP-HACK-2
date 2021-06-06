@@ -7,6 +7,9 @@ Created Website for Tailor
 
 ![Screenshot (233)](https://user-images.githubusercontent.com/59130610/120940860-ffe38c80-c73c-11eb-8b2d-af1163b5d7d3.png)
 
+![Screenshot (238)](https://user-images.githubusercontent.com/59130610/120943552-3de8ac80-c74d-11eb-823a-7d972bb7e7cb.png)
+
+
 ![Screenshot (237)](https://user-images.githubusercontent.com/59130610/120940803-b004c580-c73c-11eb-833b-25b12c89d6e9.png)
 
 ![Screenshot (236)](https://user-images.githubusercontent.com/59130610/120940801-aed39880-c73c-11eb-9f0a-686e95772f14.png)
