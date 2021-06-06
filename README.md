@@ -1,5 +1,6 @@
 # PEP-HACK-2
 Created Website for Tailor
+# [PROJECT_==> responsive-FronPage ==> index.html]===open in Live Server 
 ![Screenshot (234)](https://user-images.githubusercontent.com/59130610/120940798-ab401180-c73c-11eb-8993-d349fa081a8c.png)
 
 ![Screenshot (235)](https://user-images.githubusercontent.com/59130610/120940799-ad09d500-c73c-11eb-8cea-58629a66c4e0.png)
